@@ -4,27 +4,27 @@ A list of Books. Collected by Sudo_root CTF Team!<br>
 Sudo_root == Algerian Capture the Flag Team, who love Computer Security.<br>
 
 # Web:<br>
-- [BOOKNAME](LINK) - Short Description
+- [BOOKNAME] - Short Description
 
 # Pwn:<br>
-- [BOOKNAME](LINK) - Short Description
+- [BOOKNAME] - Short Description
 
 # Reverse:<br>
-- [BOOKNAME](LINK) - Short Description
+- [BOOKNAME] - Short Description
 
 # Crypto:<br>
-- [BOOKNAME](LINK) - Short Description
+- [BOOKNAME] - Short Description
 
 # Forensics:<br>
-- [BOOKNAME](LINK) - Short Description
+- [BOOKNAME] - Short Description
 
 # Network:<br>
-- [BOOKNAME](LINK) - Short Description
+- [BOOKNAME] - Short Description
 
 # Stegano:<br>
-- [BOOKNAME](LINK) - Short Description
+- [BOOKNAME] - Short Description
 
 # Misc:<br>
-- [BOOKNAME](LINK) - Short Description
+- [BOOKNAME] - Short Description
 
 # Made With ♥ for CTF Enthusiasts by Sudo_root.
