@@ -4,27 +4,26 @@ A list of Books. Collected by Sudo_root CTF Team!<br>
 Sudo_root == Algerian Capture the Flag Team, who love Computer Security.<br>
 
 # Web:<br>
-- [BOOKNAME] - Short Description
+- The Web Application Hacker's Handbook
 
 # Pwn:<br>
-- [BOOKNAME] - Short Description
+- The Art Of Exploitation
 
 # Reverse:<br>
-- [BOOKNAME] - Short Description
+- Learning Linux Binary Analysis
+- Assembly Language for x86 Processors
 
 # Crypto:<br>
-- [BOOKNAME] - Short Description
+- [BOOKNAME]
 
 # Forensics:<br>
-- [BOOKNAME] - Short Description
+- The Art Of Memory Forensics
 
 # Network:<br>
-- [BOOKNAME] - Short Description
+- [BOOKNAME]
 
 # Stegano:<br>
-- [BOOKNAME] - Short Description
+- [BOOKNAME]
 
-# Misc:<br>
-- [BOOKNAME] - Short Description
 
 # Made With ♥ for CTF Enthusiasts by Sudo_root.
