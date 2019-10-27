@@ -7,14 +7,16 @@ Sudo_root == Algerian Capture the Flag Team, who love Computer Security.<br>
 - The Web Application Hacker's Handbook
 
 # Pwn:<br>
-- The Art Of Exploitation
+- Hacking: The Art of Exploitation
 
 # Reverse:<br>
-- Learning Linux Binary Analysis
 - Assembly Language for x86 Processors
+- Learning Linux Binary Analysis
+- Practical Malware Analysis
 
 # Crypto:<br>
-- [BOOKNAME]
+- Cryptography Engineering: Design Principles andPractical Applications
+- Serious Cryptography: A Practical Introduction to Modern Encryption
 
 # Forensics:<br>
 - The Art Of Memory Forensics
